@@ -1,7 +1,7 @@
 ### Hi, my name is Jake Enea, welcome to my GitHub! :wave::computer:
  - I am currently working on a B.S. in Cyber Security Systems at St. John's University.
  - Interested in data analysis and love to apply it to things I like, especially baseball.
- - Looking to build a career that incorporates both programming and cybersecurity.
+ - Determined to build a career that incorporates both programming and cybersecurity.
  - I am looking forward to learning more about programming and sharing what I have learned here!
  - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jakeenea/)
 
