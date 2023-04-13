@@ -5,6 +5,10 @@
  - I am looking forward to learning more about programming and sharing what I have learned here!
  - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jakeenea/)
 
+<details>
+<summary>📊 <b><i>GitHub Stats</i></b></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=jakeenea51&show_icons=true&theme=gruvbox" alt="Faizan's GitHub Stats" />
+</details>
 
 <!--
 **jakeenea51/jakeenea51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
