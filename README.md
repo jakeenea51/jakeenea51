@@ -1,8 +1,6 @@
 ### Hi, my name is Jake Enea, welcome to my GitHub! :wave::computer:
  - Currently working on a B.S. in Cyber Security Systems at St. John's University
  - Interested in AI/ML security automation, digital forensics, and cloud security
- - Determined to build a career that incorporates both programming and cybersecurity
- - I am looking forward to learning more about programming and sharing what I have learned here!
  - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jakeenea/)
 
 <details>
